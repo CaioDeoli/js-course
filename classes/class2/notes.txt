@@ -1,0 +1,5 @@
+- Sugestão de leitura: Padrões de Projeto
+- Front-end e back-end
+- Arquiteturas. Ex.: MVC, Arquitetura Hexagonal, ...
+- Componentes de classes e Hooks
+- SOLID

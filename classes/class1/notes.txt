@@ -1,0 +1,10 @@
+Preparando o ambiente
+
+- Navegador: Google Chrome
+  - Use o inspecionar do navegador para executar códigos JS
+- Editor de texto: Visual Studio Code
+- Node.js
+  - Baixe a versão LTS que inclui o NPM
+- Extensão Code Runner do JavaScript
+  - Vai fazer a ponte entre o nosso JavaScript escrito e o Node
+  - Melhor do que digitar no terminal para executar o node

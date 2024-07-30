@@ -1,0 +1,4 @@
+Escreva aqui palavras, termos ou gírias que são utilizadas no ambiente da programação. Depois você pode escrever um artigo ou fazer um post sobre isso.
+
+- Debugar
+- Identação
