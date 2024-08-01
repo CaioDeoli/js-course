@@ -2,8 +2,10 @@ No navegador
 Ctrl + U: exibe o código HTML da página.
 
 No console do navegador
-Seta para cima: copia e cola o que você escreveu anteriormente.
+Up: copia e cola o que você escreveu anteriormente.
 
 No VS Code
 Ctrl + S: salva o arquivo.
 Shift + Tab: reduz a identação de uma ou mais linha.
+Alt + Up: move uma ou mais linhas código para cima.
+Alt + Down: move uma ou mais linhas código para baixo.
